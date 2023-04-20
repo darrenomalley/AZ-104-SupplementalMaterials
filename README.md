@@ -1,4 +1,4 @@
-# AZ-104 Supplemental Materials
+# Course AZ-104 Supplemental Materials
 
 
 ### General Resources:
